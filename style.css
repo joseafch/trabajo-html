@@ -4,3 +4,24 @@ background-color: rgba(112, 209, 245, 0.50);
 img{
     background-color: rgba(112,209,245,0.50);
 }
+.box1{
+  height: 300px;
+  width: 200px;
+  border: solid 5px;
+}
+.box2{
+    height: 100px;
+    width: 150px;
+      
+  }
+  .box3{
+    height: 50px;
+    width: 150px;
+      
+  }
+li:first-child{
+    background-color: aliceblue;
+}
+li:nth-child(2){
+    background-color: blueviolet;
+}
